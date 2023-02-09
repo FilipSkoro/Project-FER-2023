@@ -1,0 +1,7 @@
+Determination of network topology and node arrangement
+
+In today’s digital world, man replaces technology in many jobs. More and more jobs can be done using certain technology. One example of a device that is regularly
+used today to measure various parameters is the Raspberry Pi. This project represents a simple task that should be done using four Raspberry Pi devices.
+This technical documentation provides more information about the device itself, the tasks it was supposed to perform and the way in which it was achieved.
+
+Keywords: Raspberry Pi, communication, technology
