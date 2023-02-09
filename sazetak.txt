@@ -1,0 +1,8 @@
+Određivanje topologije mreže i rasporeda čvorova
+
+U današnjem digitalnom svijetu u mnogim poslovima čovjeka zamjenjuje tehnologija. Sve više poslova moguće je obaviti korištenjem određene tehnologije. Jedan primjer
+uređaja koji se danas redovno koristi za mjerenje različitih parametara jest Raspberry Pi. Ovaj projekt predstavlja jednostavan zadatak koji je trebao biti obavljen
+pomoću četiri Raspberry Pi uređaja. Ova tehnička dokumentacija navodi više informacija o samom uređaju, zadatke koje su trebali biti izvršeni te način na koji je to
+postignuto.
+
+Ključne riječi: Raspberry Pi, komunikacija, tehnologija
